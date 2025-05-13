@@ -35,6 +35,16 @@ The data for this dashboard has been sourced from various publicly available dat
 - You can access the dashboard live on **Tableau Public**. [View on Tableau Public](https://public.tableau.com/app/profile/akanksha.samindla3090/viz/Global_Development_Analysis4/D1-Overview?publish=yes).
 - For a deeper analysis, download the `.twbx` file from the repository and open it in Tableau Desktop.
 
+## Screenshots
+
+![Overview](https://github.com/AKANKSHASAMINDLA/Global-Development-Analysis/blob/main/Overview.png?raw=true)
+![Economic Indicators](https://github.com/AKANKSHASAMINDLA/Global-Development-Analysis/blob/main/Economic_Indicators.png?raw=true)
+![Economic and Digital Rise](https://github.com/AKANKSHASAMINDLA/Global-Development-Analysis/blob/main/Economic_and_Digital_Rise.png?raw=true)
+![Health Indicators](https://github.com/AKANKSHASAMINDLA/Global-Development-Analysis/blob/main/Health_Indicators.png?raw=true)
+![Climate and Agriculture](https://github.com/AKANKSHASAMINDLA/Global-Development-Analysis/blob/main/Climate_and_Agriculture.png?raw=true)
+![Sector Contributions](https://github.com/AKANKSHASAMINDLA/Global-Development-Analysis/blob/main/Sector_Contributions.png?raw=true)
+
+
 ## Contributing
 Feel free to fork the repository, contribute enhancements, or submit bug reports. Contributions to improve the dashboard or add new features are welcome!
 
