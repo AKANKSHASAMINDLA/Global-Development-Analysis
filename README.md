@@ -24,13 +24,6 @@ The dashboard consists of several key visualizations that explore global develop
 ## Data Sources
 The data for this dashboard has been sourced from various publicly available datasets. These include global economic reports, health statistics, and climate impact reports.
 
-## Installation
-1. Clone the repository to your local machine:
-    ```bash
-    git clone https://github.com/AKANKSHASAMINDLA/Global-Development-Analysis.git
-    ```
-2. Open the **Tableau** workbook (in `.twbx` format) with **Tableau Desktop** to explore the visualizations.
-
 ## Usage
 - You can access the dashboard live on **Tableau Public**. [View on Tableau Public](https://public.tableau.com/app/profile/akanksha.samindla3090/viz/Global_Development_Analysis4/D1-Overview?publish=yes).
 - For a deeper analysis, download the `.twbx` file from the repository and open it in Tableau Desktop.
@@ -47,11 +40,3 @@ The data for this dashboard has been sourced from various publicly available dat
 
 ## Contributing
 Feel free to fork the repository, contribute enhancements, or submit bug reports. Contributions to improve the dashboard or add new features are welcome!
-
-## Acknowledgments
-- Thanks to the various global organizations that provide open data for use in analysis.
-- A special thanks to the Tableau community for sharing ideas and inspiration.
-
----
-
-For any issues or suggestions, feel free to open an issue on this repository!
